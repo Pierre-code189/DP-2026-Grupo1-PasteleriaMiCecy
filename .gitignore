@@ -1,0 +1,13 @@
+# Artefactos de compilación
+build/
+dist/
+*.class
+
+# NetBeans: configuración privada del equipo
+nbproject/private/
+nbproject/build-impl.xml
+nbproject/genfiles.properties
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
